@@ -62,7 +62,7 @@
 
 <p align="center">
   <span>
-    <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg](https://cdn.simpleicons.org/n8n/EA4B71)" height="40"/><br/>
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/><br/>
     <sub><b>n8n</b></sub>
   </span>
 </p>
