@@ -1,14 +1,15 @@
-<h1 align="center"> Abdul Basit </h1>
+# Abdul Basit
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Frontend+Specialist+(React+%2F+Next.js);Building+Scalable+Web+Applications;Clean+Architecture+%2B+Performance+Focused+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+(Next.js+%2F+Node.js);AI+SaaS+%2B+Automation+Specialist;Building+Scalable+Systems+%26+Clean+Architecture;Production-Ready+Apps+%7C+Real+World+Impact+⚡" />
 </p>
 
 <p align="center">
-  <a href="https://abdulbasit-005.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://abdulbasit-005.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="mailto:rajaabdulbasit@gmail.com">
-    <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:rajaabdulbasit005@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/abdulbasit-005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -20,110 +21,149 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
 ```diff
-+ Full Stack Developer with 3 years combined experience
-+ Specialized in React, Next.js & modern frontend architecture
-+ Built real-world SaaS apps, dashboards & scalable systems
-+ Experience working with international clients (Austria, US)
-+ Strong focus on performance, UX & clean code
++ Full-Stack Engineer specializing in Next.js, TypeScript & Node.js
++ Built and deployed AI SaaS products (RAG, automation, real-time systems)
++ Experience with international startups (Austria 🇦🇹, US 🇺🇸)
++ Strong focus on performance, scalability & clean architecture
 ```
 
-I build **production-ready applications** — not just demos.
-My focus is on **speed, scalability, and clean architecture** that actually works in real-world environments.
+I don’t build tutorials — I build **production systems** used in real-world environments.
+
+> Recently worked on AI SaaS platforms with **RAG pipelines, Stripe billing, and real-time streaming systems**.
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Key Projects
 
-### 🧠 DocsNow — AI SaaS Platform
+### 🧠 DocsNow — AI SaaS (RAG Platform)
 
-🔗 https://your-docsnow-link.com
-💻 https://github.com/your-docsnow-repo
+**Tech:** Next.js • TypeScript • OpenAI • Prisma • Stripe
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![AI](https://img.shields.io/badge/AI-Integration-blue)
-
-* AI-powered PDF chat system
-* Vector search + streaming responses
-* Full SaaS structure (auth, dashboard, subscriptions)
-* Built for real-world usage
+* Built full-stack **RAG-based SaaS platform** for chatting with PDFs
+* Implemented **vector similarity search + embeddings**
+* Real-time AI responses using **SSE / streaming**
+* Integrated **Stripe subscriptions & billing system**
+* Designed scalable backend & clean architecture
 
 ---
 
-### 📊 Issue Tracker — Full Stack System
+### 🤖 Chatley AI (Production System)
 
-🔗 https://your-issue-tracker.com
-💻 https://github.com/your-issue-tracker
+**Role:** Core Full-Stack Engineer
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React Query](https://img.shields.io/badge/ReactQuery-FF4154?logo=reactquery)
-
-* Advanced issue tracking system
-* Filtering, analytics & dashboard
-* Clean UI + optimized performance
+* Built **AI voice + multi-channel messaging system**
+* Designed **Next.js dashboards + Node.js backend services**
+* Automated workflows using **n8n + REST APIs**
+* Synced call logs, analytics & appointments into CRMs
+* Designed **multi-tenant MongoDB schemas** for high throughput
 
 ---
 
-### 🏠 Rentistan — Rental Platform (Mobile + Web)
+### 📊 Issue Tracker (Full Stack System)
 
-💻 https://github.com/your-rentistan
+**Tech:** Next.js • Prisma • MySQL • React Query
 
-![React Native](https://img.shields.io/badge/ReactNative-20232A?logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-
-* Full rental platform with chat & booking
-* Firebase backend (auth + database)
-* Admin dashboard included
+* Built full CRUD system with **NextAuth authentication**
+* Dashboard with analytics, filters & pagination
+* Reusable UI components using **Radix UI**
+* Clean architecture with scalable schema design
 
 ---
 
-### 🎮 GameHub — Discovery Platform
+### 🎮 GameHub (High Performance Frontend)
 
-🔗 https://your-gamehub-link.com
-💻 https://github.com/your-gamehub
+**Tech:** React • Tailwind • React Query
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-
-* Game discovery UI with API integration
-* Infinite scrolling + filtering
-* Responsive & smooth UX
+* Integrated **RAWG API (10K+ games dataset)**
+* Achieved **~95% performance score**
+* Infinite scroll, filtering & search
+* Fully responsive UI system
 
 ---
 
-## 🛠 Tech Stack
+### 🏠 Rentistan (Mobile App)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,mongodb,postgres,prisma,firebase,docker,git" />
-</p>
+**Tech:** React Native • Firebase
 
----
-
-## ⚙️ Tools & Automation
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
-  <br/>
-  <sub><b>n8n • API Automation • Workflow Systems</b></sub>
-</p>
+* Rental platform with **chat + booking system**
+* Firebase Auth + Firestore backend
+* Real-time notifications & role-based navigation
+* Optimized for Android performance
 
 ---
 
 ## 💼 Experience
 
-```yaml
-Full Stack Developer (Freelance) — 2024–Present
-→ Built SaaS apps, dashboards & APIs for clients
-→ Focus: Next.js, Node.js, MongoDB
+### 🇺🇸 Forthlogic AI — Full Stack Developer (Remote)
 
-Frontend Developer — JUHUU (Austria)
-→ Marketplace UI & production-grade features
-→ React + scalable frontend systems
+**July 2025 – Present**
 
-Frontend Developer Intern — Alphabase
-→ Next.js components & UI systems
+* Engineered AI SaaS platform with **RAG architecture**
+* Built **sub-second PDF chat system using embeddings**
+* Implemented **Stripe billing + real-time streaming (SSE)**
+
+---
+
+### 🇦🇹 JUHUU GmbH — Frontend Developer (Remote)
+
+**Sep 2023 – Mar 2024**
+
+* Built UI for **shared mobility & rental SaaS platform**
+* Developed reusable **React + Tailwind components**
+* Improved booking flows & performance across devices
+* Built **AI image workflows using n8n**
+
+---
+
+### 🇵🇰 Alphabase — Full Stack Engineer
+
+**Nov 2024 – Apr 2025**
+
+* Core engineer for **Chatley AI system**
+* Built dashboards, backend services & automation pipelines
+* Designed scalable database schemas & integrations
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+TypeScript • JavaScript • HTML • CSS
+
+### Frontend
+
+React.js • Next.js • Tailwind • Shadcn/UI • Material UI
+
+### Backend
+
+Node.js • Express • REST APIs
+
+### Databases
+
+MongoDB • MySQL • Prisma • Firebase
+
+### Tools
+
+Git • Vercel • n8n • Figma • Framer
+
+---
+
+## ⚙️ What I Actually Focus On
+
+```js
+const engineer = {
+  focus: [
+    "Scalable Architecture",
+    "AI SaaS Systems",
+    "Automation Workflows",
+    "Performance Optimization",
+    "Clean Code"
+  ]
+};
 ```
 
 ---
@@ -138,36 +178,21 @@ Frontend Developer Intern — Alphabase
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulbasit-005&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## 🎓 Education
+
+**BS Information Technology**
+University of Chakwal (2020 – 2024)
 
 ---
 
-## ⚡ Dev Philosophy
+## 📬 Contact
 
-```js
-const mindset = () => {
-  buildRealThings();
-  focusOnUsers();
-  optimizePerformance();
-  shipFast();
-};
-```
+* 📧 [rajaabdulbasit005@gmail.com](mailto:rajaabdulbasit005@gmail.com)
+* 📍 Islamabad, Pakistan
+* 💼 Open to remote roles & freelance
 
 ---
 
-## 🌍 Let’s Work Together
-
-<p align="center">
-  <a href="https://abdulbasit-005.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit Portfolio-000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="mailto:rajaabdulbasit@gmail.com">
-    <img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-⭐ *Open to remote opportunities, freelance work, and full-time roles.*
+⭐ *If you're building something serious — let's talk.*
