@@ -1,4 +1,4 @@
-<img width="538" height="109" alt="image" src="https://github.com/user-attachments/assets/88664534-d9ca-411e-a454-d9ac75f5f3e0" /><h1 align="center"> Abdul Basit </h1>
+<h1 align="center"> Abdul Basit </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Native+Product+Builder;Next.js+%2B+Node.js+Expert;Building+Scalable+SaaS+🚀" />
@@ -66,6 +66,7 @@
     <sub><b>n8n</b></sub>
   </span>
 </p>
+
 ---
 
 ## 💼 Experience
