@@ -43,9 +43,6 @@
 
 ## 🧠 AI & Automation Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
