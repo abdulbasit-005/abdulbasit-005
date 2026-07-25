@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://abdulbasit-005.vercel.app/">🌐 Portfolio</a> •
-  <a href="mailto:rajaabdulbasit@gmail.com">📧 Email</a>
+  <a href="https://abdulbasit-005.vercel.app/" title="Portfolio">
+    <img src="https://cdn.simpleicons.org/vercel/white" height="35" hspace="12"/>
+  </a>
+  <a href="mailto:rajaabdulbasit@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/white" height="35" hspace="12"/>
+  </a>
 </p>
 
 ---
@@ -45,10 +49,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/n8n/white" height="40" hspace="15"/>
 </p>
 
 ---
@@ -130,8 +131,3 @@ while(true) {
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
