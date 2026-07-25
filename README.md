@@ -6,10 +6,23 @@
 
 <p align="center">
   <a href="https://abdulbasit-005.vercel.app/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/" height="35" hspace="12"/>
+    <img src="https://cdn.simpleicons.org/vercel" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:rajaabdulbasit@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/" height="35" hspace="12"/>
+    <img src="https://cdn.simpleicons.org/gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abdulbasit-005" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abdulbasit005" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/captain_ghost005" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram" height="40"/>
   </a>
 </p>
 
@@ -49,8 +62,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n/" height="40" hspace="15"/>
-</p>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/></p>
 <p>n8n</p>
 
 ---
