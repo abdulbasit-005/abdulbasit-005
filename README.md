@@ -1,28 +1,28 @@
-<h1 align="center"> Abdul Basit </h1>
+<img width="538" height="109" alt="image" src="https://github.com/user-attachments/assets/88664534-d9ca-411e-a454-d9ac75f5f3e0" /><h1 align="center"> Abdul Basit </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Native+Product+Builder;Next.js+%2B+Node.js+Expert;Building+Scalable+SaaS+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://abdulbasit-005.vercel.app/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel" height="40"/>
+  <a href="https://abdulbasit-005.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rajaabdulbasit@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail" height="40"/>
+  &nbsp;
+  <a href="mailto:rajaabdulbasit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/abdulbasit-005" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github" height="40"/>
+  &nbsp;
+  <a href="https://github.com/abdulbasit-005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abdulbasit005" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin" height="40"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/abdulbasit005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/captain_ghost005" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram" height="40"/>
+  &nbsp;
+  <a href="https://instagram.com/captain_ghost005" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -60,11 +60,12 @@
 
 ## 🧠 AI & Automation Stack
 
-
 <p align="center">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/></p>
-<p>n8n</p>
-
+  <span>
+    <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg](https://cdn.simpleicons.org/n8n/EA4B71)" height="40"/><br/>
+    <sub><b>n8n</b></sub>
+  </span>
+</p>
 ---
 
 ## 💼 Experience
