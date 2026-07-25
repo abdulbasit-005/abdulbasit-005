@@ -1,4 +1,4 @@
-# Abdul Basit
+<h1 align="center"> Abdul Basit </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Specialist+(React+%2F+Next.js);Building+Scalable+Web+Apps;Clean+UI+%2B+High+Performance+⚡" />
