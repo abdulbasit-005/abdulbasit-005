@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Abdul Basit ⚡</h1>
+<h1 align="center"> Abdul Basit </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Native+Product+Builder;Next.js+%2B+Node.js+Expert;Building+Scalable+SaaS+🚀" />
@@ -36,7 +36,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,express,mongodb,postgres,prisma,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,mongodb,postgres,prisma,docker,git" />
 </p>
 
 ---
@@ -98,13 +98,9 @@ Frontend Developer — Juhuu GmbH
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulbasit-005&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=abdulbasit-005&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 ---
