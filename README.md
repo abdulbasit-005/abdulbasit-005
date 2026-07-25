@@ -148,7 +148,7 @@ while (true) {
   <a href="https://abdulbasit-005.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:rajaabdulbasit@gmail.com">
+  <a href="mailto:t@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
