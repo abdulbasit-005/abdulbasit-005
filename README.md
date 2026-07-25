@@ -1,35 +1,146 @@
+<h1 align="center">⚡ Abdul Basit ⚡</h1>
 
-# Abdul Basit
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Native+Product+Builder;Next.js+%2B+Node.js+Expert;Building+Scalable+SaaS+🚀" />
+</p>
 
-👋 Hi there! I'm Abdul Basit, an Information Technology graduate with a passion for web development. I specialize in building modern, responsive web applications using React, Typescript and JavaScript. I'm also venturing into the world of React Native to expand my skill set in mobile app development.
+<p align="center">
+  <a href="https://abdulbasit-005.vercel.app/">🌐 Portfolio</a> •
+  <a href="mailto:rajaabdulbasit@gmail.com">📧 Email</a>
+</p>
 
-## 💼 Professional Experience:
+---
 
-Developed several projects for personal growth and freelance clients.
-Contributed to large-scale IoT projects with the organization "Juhuu," enhancing my skills in integrating web technologies with IoT systems.
+## 🧠 About Me
 
-## 🔧 Technical Skills:
-**Frontend: React, Typescript, JavaScript, Bootstrap, Chakra UI, TailWind**
+```diff
++ Full-Stack Developer crafting AI-native products
++ Building scalable SaaS platforms & dashboards
++ Focused on performance, UX clarity & clean architecture
++ Based in Islamabad, working with global teams
+```
 
- **Mobile Development: React Native (beginner)**
+> I build production-grade web apps with modern stacks — from AI dashboards to full SaaS systems with real users.
 
- **Tools & Platforms: Git, Firebase, Expo**
+---
 
-## 🌟 Projects & Contributions:
+## 🚀 What I Build
 
-Designed and developed interactive web applications that improve user experience and accessibility.
-Collaborated with cross-functional teams to deliver high-quality IoT solutions at "Juhuu."
-Built a rental listings mobile app, 'Rentistan,' using React Native and Firebase, with functionalities for user authentication, listing management, and real-time chat.
+* 🤖 AI-powered applications (LLMs, vector search, automation)
+* 📊 Dashboards & SaaS platforms
+* ⚡ High-performance full-stack systems
+* 🔗 APIs, auth, payments & scalable backends
 
-## 🌱 Learning & Growth:
+---
 
-Continuously exploring new technologies and frameworks to stay updated with industry trends.
-Eager to collaborate on open-source projects and contribute to the developer community.
+## 🛠 Tech Stack
 
-## 📫 Connect with Me:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,express,mongodb,postgres,prisma,docker,git" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/abdul-basit-304917280/)
+---
 
-rajaabdulbasit005@gmail.com
-Let's build something amazing together!
+## 🧠 AI & Automation Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+`OpenAI` • `LangChain` • `Pinecone` • `n8n`
+
+---
+
+## 💼 Experience
+
+```yaml
+Full Stack Developer — Forthlogic AI (2025–Present)
+→ AI calling systems, dashboards, automation pipelines
+
+Frontend Developer Intern — Alphabase
+→ Next.js features, Radix UI, AI product surfaces
+
+Frontend Developer — Juhuu GmbH
+→ IoT platforms, marketplace UI, production apps
+```
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 Docs-now (AI SaaS)
+
+* Chat with PDFs using AI
+* Vector search + streaming responses
+* Built with Next.js, Prisma, LangChain
+* Includes auth, subscriptions & dashboards
+
+### 📊 Issue Tracker
+
+* Full-stack issue management system
+* Auth, filtering, analytics dashboard
+* Built with Next.js, Prisma, React Query
+
+### 🎮 GameHub
+
+* Game discovery platform
+* API-driven UI with search & filtering
+* Infinite scrolling + responsive UX
+
+### 🎨 AI Image Generator
+
+* AI-powered image creation tool
+* FastAPI backend + Next.js frontend
+* Automation workflows with n8n
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Dev Mindset
+
+```js
+while(true) {
+  build();
+  optimize();
+  scale();
+}
+```
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://abdulbasit-005.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:rajaabdulbasit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+</p>
