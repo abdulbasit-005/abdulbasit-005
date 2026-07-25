@@ -99,20 +99,13 @@ Frontend Developer — Juhuu GmbH
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulbasit-005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://streak-stats.demolab.com/?user=abdulbasit-005&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=abdulbasit-005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/abdulbasit-005/abdulbasit-005/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
