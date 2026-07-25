@@ -63,7 +63,7 @@
 <p align="center">
   <span>
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/><br/>
-    <h2><b>n8n</b></h2>
+    <sub><h3><b>n8n</b></h3></sub>
   </span>
 </p>
 
