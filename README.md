@@ -1,28 +1,20 @@
 <h1 align="center"> Abdul Basit </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Specialist+(React+%2F+Next.js);Building+Scalable+Web+Apps;Clean+UI+%2B+High+Performance+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Frontend+Specialist+(React+%2F+Next.js);Building+Scalable+Web+Applications;Clean+Architecture+%2B+Performance+Focused+⚡" />
 </p>
 
 <p align="center">
   <a href="https://abdulbasit-005.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:rajaabdulbasit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/abdulbasit-005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/abdulbasit-005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abdulbasit005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/captain_ghost005" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/in/abdulbasit005">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -31,41 +23,90 @@
 ## 🧠 About Me
 
 ```diff
-+ Full Stack Developer (1 year) + Frontend Specialist (2 years)
-+ Strong focus on React, Next.js & modern UI systems
-+ Building scalable web apps, dashboards & real-world products
++ Full Stack Developer with 3 years combined experience
++ Specialized in React, Next.js & modern frontend architecture
++ Built real-world SaaS apps, dashboards & scalable systems
 + Experience working with international clients (Austria, US)
-+ Based in Pakistan, open to remote opportunities
++ Strong focus on performance, UX & clean code
 ```
 
-> I build production-ready web applications with a focus on performance, clean architecture, and user experience.
+I build **production-ready applications** — not just demos.
+My focus is on **speed, scalability, and clean architecture** that actually works in real-world environments.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Work
 
-* 📊 SaaS dashboards & admin panels
-* ⚡ Full-stack web applications
-* 🔗 REST APIs & backend systems
-* 📱 Responsive, high-performance UIs
-* 🤖 AI-integrated features (chat, automation)
+### 🧠 DocsNow — AI SaaS Platform
+
+🔗 https://your-docsnow-link.com
+💻 https://github.com/your-docsnow-repo
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![AI](https://img.shields.io/badge/AI-Integration-blue)
+
+* AI-powered PDF chat system
+* Vector search + streaming responses
+* Full SaaS structure (auth, dashboard, subscriptions)
+* Built for real-world usage
+
+---
+
+### 📊 Issue Tracker — Full Stack System
+
+🔗 https://your-issue-tracker.com
+💻 https://github.com/your-issue-tracker
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React Query](https://img.shields.io/badge/ReactQuery-FF4154?logo=reactquery)
+
+* Advanced issue tracking system
+* Filtering, analytics & dashboard
+* Clean UI + optimized performance
+
+---
+
+### 🏠 Rentistan — Rental Platform (Mobile + Web)
+
+💻 https://github.com/your-rentistan
+
+![React Native](https://img.shields.io/badge/ReactNative-20232A?logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+* Full rental platform with chat & booking
+* Firebase backend (auth + database)
+* Admin dashboard included
+
+---
+
+### 🎮 GameHub — Discovery Platform
+
+🔗 https://your-gamehub-link.com
+💻 https://github.com/your-gamehub
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+
+* Game discovery UI with API integration
+* Infinite scrolling + filtering
+* Responsive & smooth UX
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,mongodb,postgres,prisma,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,mongodb,postgres,prisma,firebase,docker,git" />
 </p>
 
 ---
 
-## 🧠 Tools & Automation
+## ⚙️ Tools & Automation
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
   <br/>
-  <sub><b>n8n • API Automation • Workflow Design</b></sub>
+  <sub><b>n8n • API Automation • Workflow Systems</b></sub>
 </p>
 
 ---
@@ -74,55 +115,28 @@
 
 ```yaml
 Full Stack Developer (Freelance) — 2024–Present
-→ Built full-stack apps, APIs & dashboards for clients
-→ Focus on Next.js, Node.js & MongoDB
+→ Built SaaS apps, dashboards & APIs for clients
+→ Focus: Next.js, Node.js, MongoDB
 
 Frontend Developer — JUHUU (Austria)
-→ Developed marketplace UI & production features
-→ Built responsive React interfaces
+→ Marketplace UI & production-grade features
+→ React + scalable frontend systems
 
 Frontend Developer Intern — Alphabase
-→ Worked with Next.js, UI components & frontend systems
+→ Next.js components & UI systems
 ```
 
 ---
 
-## 🧩 Featured Projects
+## 📊 GitHub Stats
 
-### 🧠 DocsNow (AI SaaS)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulbasit-005&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-* Chat with PDFs using AI
-* Vector search + streaming responses
-* Built with Next.js, Prisma
-* Auth + dashboard system
-
----
-
-### 📊 Issue Tracker
-
-* Full-stack issue management system
-* Authentication, filtering, dashboard
-* Built with Next.js, Prisma, React Query
-
----
-
-### 🎮 GameHub
-
-* Game discovery platform
-* API-driven UI with filtering & search
-* Infinite scrolling & responsive design
-
----
-
-### 🏠 Rentistan (Mobile App)
-
-* Rental platform (React Native + Firebase)
-* Auth, listings, chat & booking system
-* Admin panel (web) included
-
----
-
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdulbasit-005&theme=tokyonight&hide_border=true" />
@@ -130,25 +144,30 @@ Frontend Developer Intern — Alphabase
 
 ---
 
-## ⚡ Dev Mindset
+## ⚡ Dev Philosophy
 
 ```js
-while (true) {
-  build();
-  improve();
-  ship();
-}
+const mindset = () => {
+  buildRealThings();
+  focusOnUsers();
+  optimizePerformance();
+  shipFast();
+};
 ```
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Let’s Work Together
 
 <p align="center">
   <a href="https://abdulbasit-005.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="mailto:t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:rajaabdulbasit@gmail.com">
+    <img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
+---
+
+⭐ *Open to remote opportunities, freelance work, and full-time roles.*
