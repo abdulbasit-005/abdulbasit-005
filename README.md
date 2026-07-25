@@ -99,7 +99,7 @@ Frontend Developer — Juhuu GmbH
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulbasit-005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit-005&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=abdulbasit-005&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
