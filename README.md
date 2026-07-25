@@ -20,7 +20,7 @@
 + Based in Islamabad, working with global teams
 ```
 
-> I build production-grade web apps with modern stacks — from AI dashboards to full SaaS systems with real users.
+> I build production-grade web apps with modern stacks - from AI dashboards to full SaaS systems with real users.
 
 ---
 
@@ -44,23 +44,28 @@
 ## 🧠 AI & Automation Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://skillicons.dev/icons?i=ai" />
 </p>
 
-`OpenAI` • `LangChain` • `Pinecone` • `n8n`
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Experience
 
 ```yaml
-Full Stack Developer — Forthlogic AI (2025–Present)
+Full Stack Developer - Forthlogic AI (2025–Present)
 → AI calling systems, dashboards, automation pipelines
 
-Frontend Developer Intern — Alphabase
+Frontend Developer Intern - Alphabase
 → Next.js features, Radix UI, AI product surfaces
 
-Frontend Developer — Juhuu GmbH
+Frontend Developer - Juhuu GmbH
 → IoT platforms, marketplace UI, production apps
 ```
 
