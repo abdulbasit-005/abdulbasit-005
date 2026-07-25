@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://abdulbasit-005.vercel.app/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/white" height="35" hspace="12"/>
+    <img src="https://cdn.simpleicons.org/vercel/" height="35" hspace="12"/>
   </a>
   <a href="mailto:rajaabdulbasit@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/white" height="35" hspace="12"/>
+    <img src="https://cdn.simpleicons.org/gmail/" height="35" hspace="12"/>
   </a>
 </p>
 
@@ -49,8 +49,9 @@
 
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n/white" height="40" hspace="15"/>
+  <img src="https://cdn.simpleicons.org/n8n/" height="40" hspace="15"/>
 </p>
+<p>n8n</p>
 
 ---
 
