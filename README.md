@@ -111,7 +111,7 @@ Frontend Developer — Juhuu GmbH
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulbasit-005/abdulbasit-005/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/abdulbasit-005/abdulbasit-005/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
